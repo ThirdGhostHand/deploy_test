@@ -1,0 +1,7 @@
+quart
+quart-cors
+python-dotenv
+bcrypt
+quart-jwt-extended
+pymongo
+quart_cors
